@@ -7,7 +7,7 @@ How to Use:
 2. Download this file and place it in libs
 3. Import this file by adding import '/PATH_TO_LOCATION/GreenSquares.dart';
 4. Call Constructor and provide the following parameters, List<Squares> squareList, int month, and Color squareColor
-    Example:
+    \nExample:
         List <Squares> squareList = [ Squares( int actions (0 to 6 only ) , int date   )]
         child:GreenSquares(squareList: sl,month: 1 (1 to 12 only) ,squareColor: Colors.blue)
     
