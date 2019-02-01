@@ -1,7 +1,7 @@
 Streaks is a grid of boxes that show actions concentration based on time. It is useful if you want to keep track which days you worked on some specific action like some habit or you want to maintain a streak. Famous websites that contain streaks are github, and hackerrank. 
 
 GreenSquares is a custom Flutter widget that let's you implement these streaks. 
-
+![Streaks snapshot from Github profile](https://github.com/wayperwayp/GreenSquares/blob/master/greensquaresimg.PNG)
 How to Use:
 1. Download Flutter https://flutter.io/docs/get-started/install
 2. Download this file and place it in libs
@@ -12,4 +12,3 @@ How to Use:
         child:GreenSquares(squareList: sl,month: 1 (1 to 12 only) ,squareColor: Colors.blue)
     
 
-![Streaks snapshot from Github profile](https://github.com/wayperwayp/GreenSquares/blob/master/greensquaresimg.PNG)
