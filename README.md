@@ -12,3 +12,4 @@ How to Use:
         child:GreenSquares(squareList: sl,month: 1 (1 to 12 only) ,squareColor: Colors.blue)
     
 
+![Streaks snapshot from Github profile](https://github.com/wayperwayp/GreenSquares/blob/master/greensquaresimg.PNG)
